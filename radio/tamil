@@ -173,10 +173,10 @@
         "source": "http://www.shoutcast.com/",
         "nameInSource": "CMR Tamil",
         "bitrate": 128,
-        "url": "http://24.235.111.234:8010/;?icy=http"
+        "url": "http://live.cmr24.net:8081/CMR/TamilHD-MQ/icecast.audio"
       }
     ],
-    "imageUrl": "https://cmr24.net/wp-content/themes/cmr/images/logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/cmr-tamil-fm-logo.png"
   },
   {
     "id": 10,
