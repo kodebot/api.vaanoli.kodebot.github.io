@@ -170,8 +170,8 @@
     "radioSources": [
       {
         "id": 1,
-        "source": "http://www.shoutcast.com/",
-        "nameInSource": "CMR Tamil",
+        "source": "https://cmr24.net/",
+        "nameInSource": "na",
         "bitrate": 128,
         "url": "http://live.cmr24.net:8081/CMR/TamilHD-MQ/icecast.audio"
       }
@@ -186,13 +186,13 @@
     "radioSources": [
       {
         "id": 1,
-        "source": "http://southradios.com/puthu-paadal-radio.html",
+        "source": "https://tunein.com/radio/Puthu-Paadal-Radio-s167504/",
         "nameInSource": "Puthu Paadal Radio",
         "bitrate": 128,
-        "url": "http://66.55.145.43:7759/;"
+        "url": "http://southradios.net:9090/pudhupaadalradio"
       }
     ],
-    "imageUrl": "puthu-paadal-radio"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/puthu-padal-fm-logo.png"
   },
   {
     "id": 11,
