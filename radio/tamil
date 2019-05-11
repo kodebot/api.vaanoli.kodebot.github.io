@@ -20,7 +20,7 @@
         "url": "http://104.238.193.114:7086/;?1468676137518.mp3"
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/sooriyan-fm-srilanka-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/sooriyan-fm-srilanka-logo_white_bg.png"
   },
   {
     "id": 2,
@@ -82,7 +82,7 @@
         "url": "http://38.96.148.226:6176/;"
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/ibc-tamil-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/ibc-tamil-fm-logo_white_bg.png"
   },
   {
     "id": 5,
@@ -98,7 +98,7 @@
         "url": "http://64.71.79.181:5070/;"
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/tamil-flash-fm-logo.jpg"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/tamil-flash-fm-logo.png"
   },
   {
     "id": 6,
