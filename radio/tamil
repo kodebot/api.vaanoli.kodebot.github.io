@@ -60,20 +60,13 @@
     "radioSources": [
       {
         "id": 1,
-        "source": "http://www.shoutcast.com/",
-        "nameInSource": "Mukil App",
+        "source": "http://mukilfm.com/",
+        "nameInSource": "na",
         "bitrate": 128,
-        "url": "http://listen.shoutcast.com/mukilfmradio?icy=http"
-      },
-      {
-        "id": 2,
-        "source": "http://www.shoutcast.com/",
-        "nameInSource": "Mukil App",
-        "bitrate": 64,
-        "url": "http://46.105.44.132/live?icy=http"
+        "url": "http://43.225.52.139:9302/;"
       }
     ],
-    "imageUrl": "http://mukilapp.com/mukil/img/basic/Mukil_We_logo_001.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/mukil-fm-logo.png"
   },
   {
     "id": 4,
