@@ -20,7 +20,7 @@
         "url": "http://104.238.193.114:7086/;?1468676137518.mp3"
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/sooriyan-fm-srilanka-logo_white_bg.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/sooriyan-fm-srilanka-logo.png"
   },
   {
     "id": 2,
@@ -50,7 +50,7 @@
         "url": "http://46.105.43.114:8000/live?icy=http"
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/lankasri-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/lankasri-fm-logo_white_bg.png"
   },
   {
     "id": 3,
