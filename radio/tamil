@@ -196,22 +196,6 @@
   },
   {
     "id": 11,
-    "name": "BTC Tamil FM",
-    "description": "BTC Tamil FM",
-    "genre": "Music",
-    "radioSources": [
-      {
-        "id": 1,
-        "source": "https://btctamil.com/",
-        "nameInSource": "btc tamil fm",
-        "bitrate": 128,
-        "url": "http://199.175.48.216:8080/;listen.mp3"
-      }
-    ],
-    "imageUrl": "btc-tamil-fm"
-  },
-  {
-    "id": 12,
     "name": "Vanavil FM",
     "description": "Vanavil FM",
     "genre": "Music",
@@ -219,12 +203,28 @@
       {
         "id": 1,
         "source": "http://vanavilfm.com/",
-        "nameInSource": "vanavilfm",
+        "nameInSource": "na",
         "bitrate": 128,
-        "url": "http://206.190.133.196/proxy/vanavilfm?mp=/stream;"
+        "url": "http://s3.yesstreaming.net:9000/"
       }
     ],
-    "imageUrl": "http://vanavilfm.com/wp-content/themes/vanavil1/assets/img/basic/logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/vanavil-fm-logo.png"
+  },
+  {
+    "id": 12,
+    "name": "Golden Vanavil FM",
+    "description": "Golden Vanavil 80s Hits FM",
+    "genre": "Music",
+    "radioSources": [
+      {
+        "id": 1,
+        "source": "http://vanavilfm.com/",
+        "nameInSource": "na",
+        "bitrate": 128,
+        "url": "http://s4.yesstreaming.net:8035/goldenvanavil"
+      }
+    ],
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/golden-vanavil-fm-logo.png"
   },
   {
     "id": 13,
@@ -234,13 +234,13 @@
     "radioSources": [
       {
         "id": 1,
-        "source": "http://www.shoutcast.com/",
-        "nameInSource": "radio city tamil",
+        "source": "https://www.radiocity.in/",
+        "nameInSource": "na",
         "bitrate": 64,
-        "url": " http://63.143.36.2:8888/TamilGold?icy=http"
+        "url": "https://prclive4.listenon.in/TamilGold"
       }
     ],
-    "imageUrl": "radio-city-tamil-gold"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/radio-city-tamil-gold-logo.png"
   },
   {
     "id": 14,
@@ -250,20 +250,13 @@
     "radioSources": [
       {
         "id": 1,
-        "source": "http://www.shoutcast.com/",
-        "nameInSource": "ilc tamil",
+        "source": "http://ilctamil.com/",
+        "nameInSource": "na",
         "bitrate": 64,
-        "url": "http://s1.voscast.com:9308/;?icy=http"
-      },
-      {
-        "id": 2,
-        "source": "http://www.shoutcast.com/",
-        "nameInSource": "ilc tamil",
-        "bitrate": 128,
-        "url": "http://s1.voscast.com:9308/;?icy=http"
+        "url": "http://s2.voscast.com:9370/;stream1557619954911/1"
       }
     ],
-    "imageUrl": "ilc-tamil"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/ilc-tamil-logo.png"
   },
   {
     "id": 15,
@@ -274,11 +267,11 @@
       {
         "id": 1,
         "source": "http://www.paristamil.com/",
-        "nameInSource": "paristamilfm",
+        "nameInSource": "na",
         "bitrate": 128,
         "url": "http://s6.voscast.com:7108/;"
       }
     ],
-    "imageUrl": "paris-tamil-fm"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/paris-tamil-fm-logo.png"
   }
     ]
