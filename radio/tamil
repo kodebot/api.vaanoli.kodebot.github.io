@@ -10,17 +10,20 @@
         "source": "http://www.sooriyanfm.lk/",
         "nameInSource": "na",
         "bitrate": 64,
-        "url": "http://104.238.193.114:7077/;?1468675983387.mp3"
+        "url": "http://104.238.193.114:7077/;?1468675983387.mp3",
+        "active": true
       },
       {
         "id": 2,
         "source": "http://www.sooriyanfm.lk/",
         "nameInSource": "na",
         "bitrate": 48,
-        "url": "http://104.238.193.114:7086/;?1468676137518.mp3"
+        "url": "http://104.238.193.114:7086/;?1468676137518.mp3",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/sooriyan-fm-srilanka-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/sooriyan-fm-srilanka-logo.png",
+    "active": true
   },
   {
     "id": 2,
@@ -33,24 +36,28 @@
         "source": "http://www.shoutcast.com/",
         "nameInSource": "Lankasri FM",
         "bitrate": 128,
-        "url": "http://149.202.121.175/live?icy=http"
+        "url": "http://149.202.121.175/live?icy=http",
+        "active": true
       },
       {
         "id": 2,
         "source": "http://www.shoutcast.com/",
         "nameInSource": "Lankasri FM",
         "bitrate": 64,
-        "url": " http://149.202.121.140/live?icy=http"
+        "url": " http://149.202.121.140/live?icy=http",
+        "active": true
       },
       {
         "id": 3,
         "source": "http://www.shoutcast.com/",
         "nameInSource": "Lankasri FM",
         "bitrate": 32,
-        "url": "http://46.105.43.114:8000/live?icy=http"
+        "url": "http://46.105.43.114:8000/live?icy=http",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/lankasri-fm-logo-white-bg.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/lankasri-fm-logo-white-bg.png",
+    "active": true
   },
   {
     "id": 3,
@@ -63,10 +70,12 @@
         "source": "http://mukilfm.com/",
         "nameInSource": "na",
         "bitrate": 128,
-        "url": "http://43.225.52.139:9302/;"
+        "url": "http://43.225.52.139:9302/;",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/mukil-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/mukil-fm-logo.png",
+    "active": true
   },
   {
     "id": 4,
@@ -79,10 +88,12 @@
         "source": "http://ibctamil.com/",
         "nameInSource": "IBC Tamil",
         "bitrate": 128,
-        "url": "http://38.96.148.226:6176/;"
+        "url": "http://38.96.148.226:6176/;",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/ibc-tamil-fm-logo-white-bg.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/ibc-tamil-fm-logo-white-bg.png",
+    "active": true
   },
   {
     "id": 5,
@@ -95,10 +106,12 @@
         "source": "http://www.tffm24.com",
         "nameInSource": "Tamilflash",
         "bitrate": 96,
-        "url": "http://64.71.79.181:5070/;"
+        "url": "http://64.71.79.181:5070/;",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/tamil-flash-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/tamil-flash-fm-logo.png",
+    "active": true
   },
   {
     "id": 6,
@@ -111,10 +124,12 @@
         "source": "http://www.puradsifm.com/",
         "nameInSource": "Puradsi FM",
         "bitrate": 128,
-        "url": "http://puradsifm.net:9994/;"
+        "url": "http://puradsifm.net:9994/;",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/puradsi-fm-logo-white-bg.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/puradsi-fm-logo-white-bg.png",
+    "active": true
   },
   {
     "id": 7,
@@ -127,10 +142,12 @@
         "source": "http://www.tamilolli.com/",
         "nameInSource": "TRT Tamil Olli",
         "bitrate": 320,
-        "url": "http://91.121.165.41:9035/stream.mp3"
+        "url": "http://91.121.165.41:9035/stream.mp3",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/trt-tamil-olli-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/trt-tamil-olli-logo.png",
+    "active": true
   },
   {
     "id": 8,
@@ -143,29 +160,33 @@
         "source": "http://www.chellam.fm/",
         "nameInSource": "na",
         "bitrate": 128,
-        "url": "https://usa17.fastcast4u.com/proxy/svickine/?mp=/stream2"
+        "url": "https://usa17.fastcast4u.com/proxy/svickine/?mp=/stream2",
+        "active": true
       },
       {
         "id": 2,
         "source": "http://www.shoutcast.com/",
         "nameInSource": "Chellam FM - Tamil",
         "bitrate": 128,
-        "url": "http://192.95.18.39:5012/stream2?icy=http"
+        "url": "http://192.95.18.39:5012/stream2?icy=http",
+        "active": true
       },
       {
         "id": 3,
         "source": "http://www.shoutcast.com/",
         "nameInSource": "Chellam FM - Tamil",
         "bitrate": 64,
-        "url": "http://192.95.18.39:5012/stream?icy=http"
+        "url": "http://192.95.18.39:5012/stream?icy=http",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/chellam-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/chellam-fm-logo.png",
+    "active": true
   },
   {
     "id": 9,
-    "name": "CMR Tamil",
-    "description": "CMR Tamil",
+    "name": "CMR Tamil HD",
+    "description": "CMR Tamil HD",
     "genre": "Music",
     "radioSources": [
       {
@@ -173,10 +194,12 @@
         "source": "https://cmr24.net/",
         "nameInSource": "na",
         "bitrate": 128,
-        "url": "http://live.cmr24.net:8081/CMR/TamilHD-MQ/icecast.audio"
+        "url": "http://live.cmr24.net:8081/CMR/TamilHD-MQ/icecast.audio",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/cmr-tamil-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/cmr-tamil-fm-logo.png",
+    "active": true
   },
   {
     "id": 10,
@@ -189,10 +212,12 @@
         "source": "https://tunein.com/radio/Puthu-Paadal-Radio-s167504/",
         "nameInSource": "Puthu Paadal Radio",
         "bitrate": 128,
-        "url": "http://southradios.net:9090/pudhupaadalradio"
+        "url": "http://southradios.net:9090/pudhupaadalradio",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/puthu-padal-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/puthu-padal-fm-logo.png",
+    "active": true
   },
   {
     "id": 11,
@@ -205,10 +230,12 @@
         "source": "http://vanavilfm.com/",
         "nameInSource": "na",
         "bitrate": 128,
-        "url": "http://s3.yesstreaming.net:9000/"
+        "url": "http://s3.yesstreaming.net:9000/",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/vanavil-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/vanavil-fm-logo.png",
+    "active": true
   },
   {
     "id": 12,
@@ -221,10 +248,12 @@
         "source": "http://vanavilfm.com/",
         "nameInSource": "na",
         "bitrate": 128,
-        "url": "http://s4.yesstreaming.net:8035/goldenvanavil"
+        "url": "http://s4.yesstreaming.net:8035/goldenvanavil",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/golden-vanavil-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/golden-vanavil-fm-logo.png",
+    "active": true
   },
   {
     "id": 13,
@@ -237,10 +266,12 @@
         "source": "https://www.radiocity.in/",
         "nameInSource": "na",
         "bitrate": 64,
-        "url": "https://prclive4.listenon.in/TamilGold"
+        "url": "https://prclive4.listenon.in/TamilGold",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/radio-city-tamil-gold-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/radio-city-tamil-gold-logo.png",
+    "active": true
   },
   {
     "id": 14,
@@ -253,10 +284,12 @@
         "source": "http://ilctamil.com/",
         "nameInSource": "na",
         "bitrate": 64,
-        "url": "http://s2.voscast.com:9370/;stream1557619954911/1"
+        "url": "http://s2.voscast.com:9370/;stream1557619954911/1",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/ilc-tamil-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/ilc-tamil-logo.png",
+    "active": true
   },
   {
     "id": 15,
@@ -269,9 +302,11 @@
         "source": "http://www.paristamil.com/",
         "nameInSource": "na",
         "bitrate": 128,
-        "url": "http://s6.voscast.com:7108/;"
+        "url": "http://s6.voscast.com:7108/;",
+        "active": true
       }
     ],
-    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/paris-tamil-fm-logo.png"
+    "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/paris-tamil-fm-logo.png",
+    "active": true
   }
     ]
