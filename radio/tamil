@@ -23,7 +23,7 @@
       }
     ],
     "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/sooriyan-fm-srilanka-logo.png",
-    "active": false
+    "active": true
   },
   {
     "id": 2,
