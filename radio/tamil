@@ -9,7 +9,7 @@
         "id": 1,
         "source": "http://www.sooriyanfm.lk/",
         "nameInSource": "na",
-        "bitrate": 64,
+        "bitrate": 48,
         "url": "http://104.238.193.114:7077/;?1468675983387.mp3",
         "active": true
       },
@@ -23,6 +23,12 @@
       }
     ],
     "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/sooriyan-fm-srilanka-logo.png",
+    "currentlyPlayingExtractorConfig": {
+      "source": "http://104.238.193.114:7077/index.html",
+      "scarapingRequired": true,
+      "selectorType": "regex",
+      "selector": "currentsong[^>]*>(.*?)</a>"
+    },
     "active": true
   },
   {
@@ -57,6 +63,12 @@
       }
     ],
     "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/lankasri-fm-logo-white-bg.png",
+    "currentlyPlayingExtractorConfig": {
+      "source": "http://149.202.121.175/index.html?sid=1",
+      "scarapingRequired": true,
+      "selectorType": "regex",
+      "selector": "currentsong[^>]*>(.*?)</a>"
+    },
     "active": true
   },
   {
@@ -111,6 +123,12 @@
       }
     ],
     "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/tamil-flash-fm-logo.png",
+    "currentlyPlayingExtractorConfig": {
+      "source": "http://64.71.79.181:5070/index.html?sid=1",
+      "scarapingRequired": true,
+      "selectorType": "regex",
+      "selector": "currentsong[^>]*>(.*?)</a>"
+    },
     "active": true
   },
   {
@@ -289,6 +307,12 @@
       }
     ],
     "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/ilc-tamil-logo.png",
+    "currentlyPlayingExtractorConfig": {
+      "source": "http://s2.voscast.com:9370/index.html?sid=1",
+      "scarapingRequired": true,
+      "selectorType": "regex",
+      "selector": "currentsong[^>]*>(.*?)</a>"
+    },
     "active": true
   },
   {
@@ -307,6 +331,12 @@
       }
     ],
     "imageUrl": "https://api.vaanoli.kodebot.com/radio/tamil-resources/paris-tamil-fm-logo.png",
+    "currentlyPlayingExtractorConfig": {
+      "source": "http://s6.voscast.com:7108/index.html?sid=1",
+      "scarapingRequired": true,
+      "selectorType": "regex",
+      "selector": "currentsong[^>]*>(.*?)</a>"
+    },
     "active": true
   }
     ]
