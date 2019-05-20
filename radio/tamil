@@ -1,9 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Sooriyan FM Sri Lanka",
-    "description": "Sooriyan FM Sri Lanka",
+    "name": "Sooriyan FM",
+    "description": "Sooriyan FM",
     "genre": "Music",
+    "country": "Sri lanka",
     "radioSources": [
       {
         "id": 1,
@@ -36,6 +37,7 @@
     "name": "Lankasri FM",
     "description": "Lankasri FM",
     "genre": "Music",
+    "country": "UK",
     "radioSources": [
       {
         "id": 1,
@@ -76,6 +78,7 @@
     "name": "Mukil App",
     "description": "Mukil App",
     "genre": "Music",
+    "country": "India",
     "radioSources": [
       {
         "id": 1,
@@ -94,6 +97,7 @@
     "name": "IBC Tamil",
     "description": "IBC Tamil",
     "genre": "Music",
+    "country": "UK",
     "radioSources": [
       {
         "id": 1,
@@ -112,6 +116,7 @@
     "name": "Tamil Flash",
     "description": "Tamil Falsh",
     "genre": "Music",
+    "country": "Sri Lanka",
     "radioSources": [
       {
         "id": 1,
@@ -136,6 +141,7 @@
     "name": "Puradsi FM",
     "description": "Puradsi FM",
     "genre": "Music",
+    "country": "Australia",
     "radioSources": [
       {
         "id": 1,
@@ -154,6 +160,7 @@
     "name": "TRT Tamil Olli",
     "description": "TRT Tamil Olli",
     "genre": "Music",
+    "country": "France",
     "radioSources": [
       {
         "id": 1,
@@ -172,6 +179,7 @@
     "name": "Chellam FM",
     "description": "Chellam FM",
     "genre": "Music",
+    "country": "Sri Lanka",
     "radioSources": [
       {
         "id": 1,
@@ -206,6 +214,7 @@
     "name": "CMR Tamil HD",
     "description": "CMR Tamil HD",
     "genre": "Music",
+    "country": "Canada",
     "radioSources": [
       {
         "id": 1,
@@ -224,6 +233,7 @@
     "name": "Puthu Paadal Radio",
     "description": "Puthu Paadal Radio",
     "genre": "Music",
+    "country": "Unknown",
     "radioSources": [
       {
         "id": 1,
@@ -242,6 +252,7 @@
     "name": "Vanavil FM",
     "description": "Vanavil FM",
     "genre": "Music",
+    "country": "France",
     "radioSources": [
       {
         "id": 1,
@@ -260,6 +271,7 @@
     "name": "Golden Vanavil FM",
     "description": "Golden Vanavil 80s Hits FM",
     "genre": "Music",
+    "country": "France",
     "radioSources": [
       {
         "id": 1,
@@ -278,6 +290,7 @@
     "name": "Radio City Tamil Gold",
     "description": "Radio City Tamil Gold",
     "genre": "Music",
+    "country": "Unknown",
     "radioSources": [
       {
         "id": 1,
@@ -296,6 +309,7 @@
     "name": "ILC Tamil",
     "description": "ILC Tamil",
     "genre": "Music",
+    "country": "UK",
     "radioSources": [
       {
         "id": 1,
@@ -320,6 +334,7 @@
     "name": "Paris Tamil FM",
     "description": "Paris Tamil FM",
     "genre": "Music",
+    "country": "France",
     "radioSources": [
       {
         "id": 1,
